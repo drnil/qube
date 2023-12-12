@@ -7,4 +7,4 @@
 
 The project contains annotated Python for the report [How to program your own quantum computer simulator or QUBE: QUantum computing for BEginners](https://arxiv.org/abs/2312.06624) available on arXiv with URI [DOI:10.48550/arXiv.2312.06624](https://doi.org/10.48550/arXiv.2312.06624) or short URI [DOI:10/k8hd](https://doi.org/k8hd).
 
-The code is in the form of a Jupyter Notebook. It was developed using Python version 3.11.5 and PyTorch version 2.1.1.
+The code was developed by [Martin Nilsson](https://www.ri.se/en/person/martin-nilsson) at [RISE Research Institutes of Sweden](https://www.ri.se/en), Computer Systems Unit. It comes in the form of a Jupyter Notebook, originally using Python version 3.11.5 and PyTorch version 2.1.1.
