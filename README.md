@@ -1,5 +1,7 @@
 # QUantum computing for BEginners: <br>How To Program Your Own Quantum Computer Simulator
 
+![Rubik's mini cube with coordinate system](qube-image.jpg)
+
 **Do you think you need to know quantum physics to understand how a quantum computer works? Nope, no worries there. You don't need a deep dive into physics or mathematics, just a bit of familiarity with vectors and matrix multiplication. That's really it. A good handle on Python programming and a few numpy functions will do the trick, specifically:** [**`reshape`**](https://numpy.org/doc/stable/reference/generated/numpy.reshape.html), [**`kron`**](https://numpy.org/doc/stable/reference/generated/numpy.kron.html), [**`matmul`**](https://numpy.org/doc/stable/reference/generated/numpy.matmul.html), [**`swapaxes`**](https://numpy.org/doc/stable/reference/generated/numpy.swapaxes.html), [**`linalg.norm`**](https://numpy.org/doc/stable/reference/generated/numpy.linalg.norm.html), **and** [**`random.choice`**](https://numpy.org/doc/stable/reference/generated/numpy.random.choice.norm.html).
 **In fact, twelve lines of Python code suffice to define a complete simulator.**
 
